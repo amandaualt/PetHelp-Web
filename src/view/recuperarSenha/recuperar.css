@@ -1,0 +1,18 @@
+.form-senha{
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    background-color: #A9A9A9;
+    height: 89.7vh;
+}
+
+.btn-senha{
+    background-color: #696969;
+    color: #1C1C1C;
+    font-weight: bold;
+}
+
+.btn-senha:hover{
+    background-color: #5D478B;
+    color: #E8E8E8;
+}

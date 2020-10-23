@@ -1,0 +1,25 @@
+.form-cadastro{
+    width: 100%;
+    padding: 8% 15% 10% 15%;
+    margin: auto;
+    background-color: #A9A9A9;
+    height: 100vh;
+}
+
+.btn-cadastro{
+    background-color: #696969;
+    color: #1C1C1C;
+    font-weight: bold;
+}
+
+.btn-cadastro:hover{
+    background-color: #5D478B;
+    color: #E8E8E8;
+}
+
+.lbcad{
+    padding-right: 100%;
+    color: #1C1C1C;
+    font-weight: 500;
+    padding-top: 10px;
+}
